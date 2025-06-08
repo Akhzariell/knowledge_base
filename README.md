@@ -75,5 +75,4 @@
 
 **Ответ**: *Да, ингеграции есть, как нативная (`Git`, `Zettelkasten`), так и через плагины (Todoist, `Google Calendar`).*
 
-
-<a href="https://github.com/Akhzariell/Projects" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Вернуться на главную страницу</a>
+<a href="https://github.com/Akhzariell/Projects" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Глобальный путеводитель</a>
